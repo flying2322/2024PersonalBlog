@@ -30,9 +30,9 @@ bio: My interests include warehouse robotics, RMFS simulation and optimization a
 # Interests to show in About widget
 interests:
   - Operations Research
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Warehouse Optimization
+  - Multi-Agent Pathing Finding
+  - Cellular Automaton
 
 # Education to show in About widget
 education:
