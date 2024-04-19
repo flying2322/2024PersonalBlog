@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dominic Li 李文鹏
+title: 李文鹏
 
 # Name pronunciation (optional)
-name_pronunciation: Li Wen Peng
+name_pronunciation: Dominic Li
 
 # Full name (for SEO)
-first_name: Wenpeng
+first_name: Dominic
 last_name: Li
 
 # Status emoji
@@ -94,7 +94,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/flying2322
+    link: https://twitter.com/flying232
     label: Follow me on Twitter
     display:
       header: true
@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Hi there~ This is Dominic Li, a software algorithm developer in a robotics startup company in China, now work as an expat in Amsterdam, NL.
+Hi there~ This is Dominic Li, a software algorithm developer in Amsterdam, Netherlands.This is my playground to show some funny and interesting discoveries. Hope you enjoy it and have fun!
 {style="text-align: justify;"}
