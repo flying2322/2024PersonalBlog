@@ -115,8 +115,10 @@ social:
     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Hi there~ This is Dominic Li, a software algorithm developer in Amsterdam, Netherlands.This is my playground to show some funny and interesting discoveries. Hope you enjoy it and have fun!
+Hi there~ This is Dominic Li, a software algorithm developer in Amsterdam, NL.
+
+This is my playground to show some funny and interesting discoveries. Hope you enjoy it and have fun!
 {style="text-align: justify;"}
